@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in exploring new technologies.
 - 🌱 I’m currently learning advanced Java programming.
-- 📫 How to reach me: [ajithvijayakumar05@gmail.com](mailto: ajithvijayakumar05@gmail.com)
+- 📫 How to reach me: [ajithvijayakumar05@gmail.com](mailto:ajithvijayakumar05@gmail.com)
 
 
 
