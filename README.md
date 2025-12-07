@@ -1,4 +1,4 @@
-# Hi, I’m @AjithQA-hub
+# Hi, I’m Ajith
 
 - 👀 I’m interested in exploring new technologies.
 - 🌱 I’m currently learning advanced Java programming.
