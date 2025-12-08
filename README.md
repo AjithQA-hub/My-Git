@@ -14,7 +14,8 @@
 
 ## I code in
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  
+  <img src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
