@@ -29,4 +29,7 @@
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
 </p>
 
-## 💻 Workspace Spec - Intel i5
+## 💻 Workspace Spec
+<p>
+  <img src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+</p>
